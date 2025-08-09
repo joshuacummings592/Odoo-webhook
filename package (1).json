@@ -1,0 +1,7 @@
+{
+  "name": "odoo-webhook",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tiny Vercel webhook that parses prompts and posts draft bills to Odoo via JSON-RPC.",
+  "engines": { "node": ">=18" }
+}
